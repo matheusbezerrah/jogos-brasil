@@ -1,0 +1,62 @@
+.info-valor{
+	border: 0.1px solid;
+	text-align: center;
+}
+
+.info-titulo{
+	text-align: center;
+	background-color: gray;
+	font-style: unset;
+	font-weight: bold;
+}
+
+.descricao-selecao{
+	font-family: initial;
+}
+
+.descricao-selecao-casa{
+	text-align: left;
+}
+
+.descricao-selecao-fora{
+	text-align: right;
+}
+
+.well-lg{
+	background-color: gray;
+}
+
+.glyphicon-remove{
+	margin-left: 35%;
+	margin-top: 30%;
+}
+
+.painel-jogo{
+	margin: 0%;
+	width: 100%;
+	height: 250px;
+	background-color: #FFF;
+}
+
+#painel-principal{
+	background-image: url("../img/futebol.jpg");
+}
+
+h1{
+	font-size: 50px;
+	color: white;
+}
+
+.menu-principal{
+	cursor: default;
+}
+
+.alinhamento-horizontal-corpo{
+	margin-right: 5%;
+	margin-left: 5%;
+}
+
+.menu{
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
