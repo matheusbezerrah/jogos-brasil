@@ -27,4 +27,3 @@ var jogos =
 	"local" : "Oblast de Rostov, Rússia"
 }
 ];
-
